@@ -1,4 +1,4 @@
 # Demo1
-First file on github
+This is my first file on github.
 <br>
-my name is srobona
+ My name is srobona.
